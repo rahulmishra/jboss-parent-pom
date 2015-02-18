@@ -1,4 +1,4 @@
-JBoss Parent POM
+JBoss Parent POMS
 =================
 The parent Maven POM for JBoss community projects.
 
