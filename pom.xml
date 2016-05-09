@@ -11,7 +11,7 @@
   <packaging>pom</packaging>
 
   <name>JBoss Parent POM</name>
-  <description>Parent POM for JBoss projects. Provides default project build configuration.</description>
+  <description>Parent POM for JBoss project. Provides default project build configuration.</description>
   <url>http://www.jboss.org</url>
 
   <issueManagement>
